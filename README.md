@@ -13,6 +13,8 @@ Project to be completed.
 # OITSWILLIAMV2
 
   <img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/printer-render.png">
+  
+[View BOM](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing)
 
 OITSWILLIAMV2 is a Voron 2 mod project with unique features, and sometimes breakthrough features. It is modded by OITSWILLIAM PANG and the [original design](https://github.com/VoronDesign/Voron-2) is by the members of Voron Design.
 
