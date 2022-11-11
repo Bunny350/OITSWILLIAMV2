@@ -8,7 +8,7 @@
     </a>
 </p>
 
-Project to be completed. 
+Project is being constantly updated. 
 
 # OITSWILLIAMV2
 
