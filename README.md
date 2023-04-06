@@ -16,7 +16,7 @@ Project is being constantly updated.
   
 [View BOM](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing)
 
-OITSWILLIAMV2 is a Voron 2 mod project with unique features, and sometimes breakthrough features. It is modded by OITSWILLIAM PANG and the [original design](https://github.com/VoronDesign/Voron-2) is by the members of Voron Design.
+OITSWILLIAMV2 is a Voron 2 mod project with unique features, and sometimes breakthrough features. It is modded by Oitswilliam Pang and the [original design](https://github.com/VoronDesign/Voron-2) is by the members of Voron Design.
 
 This project is for those who already had a normal and big Voron printer (can be from friends or relatives), with the exception of original parts and skirts.
 
@@ -93,5 +93,5 @@ If you have built a shrunk-down or small printer first (i.e. V0, with or no mods
 For any other questions you can join [Oitswilliam Pang Discord server](https://discord.gg/Cu6e9ra) for the mod packages or [VORON Design Discord server](https://discord.gg/voron) on the original elements.
 
 ## Special Thanks
-* Thanks to Razer for making back-side magical flying colors and RealEstate chin RGB possible with Razer Chroma.
+* For V2.3347, Thanks to Razer for making back-side magical flying colors and RealEstate chin RGB possible with Razer Chroma.
 * Thanks to [VORON Design](https://github.com/VoronDesign) for the Voron 2 CAD model.

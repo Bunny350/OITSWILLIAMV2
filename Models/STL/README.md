@@ -4,7 +4,7 @@ Some of this mod supports both Voron Trident and Voron 2.4. However, this projec
 | Mod name  | Voron Trident | Voron 2.4 |
 | ------------- | ------------- | ------------- |
 | Exhaust Lite | :heavy_check_mark: Fully supported |  :heavy_check_mark: Fully supported |
-| RealEstate display unit | :heavy_check_mark: Fully supported | :heavy_check_mark: Fully supported |
+| RealEstate Generation 2 | :heavy_check_mark: Fully supported | :heavy_check_mark: Fully supported |
 | Tracker mount | :heavy_check_mark: Fully supported[^daretodeploy] | :heavy_check_mark: Fully supported[^daretodeploy] |
 | 150mm mod 60mm fan mount | 150mm mod spec recommended | 150mm mod spec recommended |
 | 150mm mod webcam mount | 150mm mod spec only | 150mm mod spec only |
