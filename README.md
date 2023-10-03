@@ -86,7 +86,7 @@ No. There are reasons on why 150mm is not the spec size.
 ### Can OITSWILLIAMV2 be the first printer?
 No, it is made for tinkerers, although it is intended to be an do-it-anywhere printer. Users who are interested doing this should be supposed to have a larger printer.
 
-* Some people said with the help of 250mm spec is the best, this project agrees.
+* Some people said with the help of 250mm spec is the best, this project may agree.
 
 If you have built a shrunk-down or small printer first (i.e. V0, with or no mods, smaller than Spec V1 / VT, V2 or Switchwire, excluding Z height), you may need to build a bigger printer for your bigger projects. Most necessary mod parts can be fit and can be printed on the tiny build plates.
 
