@@ -12,11 +12,13 @@ Project is being constantly updated.
 
 # OITSWILLIAMV2
 
-  <img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/printer-render.png">
-  
+<img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/printer-render.png">
+
+* Currently featured in V2.3347!
+
 [View BOM](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing)
 
-OITSWILLIAMV2 is a Voron 2 mod project with unique features, and sometimes breakthrough features. It is modded by Oitswilliam Pang and the [original design](https://github.com/VoronDesign/Voron-2) is by the members of Voron Design.
+OITSWILLIAMV2 is a Voron 2 mod project with unique features, and sometimes breakthrough or stupidly insane features you will stop regretting slowly. It is modded by Oitswilliam Pang and the [original design](https://github.com/VoronDesign/Voron-2) is by the members of Voron Design.
 
 This project is for those who already had a normal and big Voron printer (can be from friends or relatives), with the exception of original parts and skirts.
 
@@ -29,8 +31,8 @@ The goal for this mod is:
 
 | Feature  | Status |
 | ------------- | ------------- |
-| Exhaust Lite / EL w/o webcam | Released |
-| Exhaust Lite / EL with webcam | EA |
+| Exhaust Lite Generation 2 | Early Access |
+| RealEstate Generation 2 | Released |
 | Replacement / 150mm spec 60mm fan mount | Released |
 | Replacement / Replacement skirts | Released |
 
@@ -40,14 +42,14 @@ This repository includes V2 150mm, which is basically Voron 2, but smaller. Norm
 ### Using OITSWILLIAMV2 Mod compoments
 
 When using OITSWILLIAMV2 mod compoments to modify the printer, you can take either one or more with:
-* Easily Replaceable screen called RealEstate.
+* Sleek yet tiltable touchscreen mount called RealEstate.
     * Touch screen support after having OctoScreen / OctoDash (for OctoPrint users) or KlipperScreen (for Moonraker / lightweight WebUI users)
 * Full DC input (no AC). (150mm mod only)
 * Smaller version of chamber exhaust called Exhaust Lite.
 * Installing Windows / Debian Linux SBC (single-board computer) or NUC requires replacing the display for the better experience.
-* Flying colors (RGB LEDs).
+* Flying colors (RGB LEDs) via Exhaust Lite.
 * Webcam from the back facing at the build plate.
-* Modular vent port with hose support.
+* Modular vent port to exhaust hose.
 * Some mods even support Voron Trident. See STLs Readme for explaination.
 
 ### Building from start
@@ -62,10 +64,11 @@ For the repository creator, it is because he originally did not have enough spac
 #### Recommended BOM changes required when compared normal V2.4 with V2.4 150mm:
 | Standard V2.4  | V2.4 150mm |
 | ------------- | ------------- |
-| Z chain IGUS E2-15-10-028-0 Chain | IGUS E2i-10-10-018-0 Chain |
-| Z chain end IGUS E2-150-10-12PZ Chain Ends | IGUS E2-100-10-12PZ Chain Ends |
+| Z chain - IGUS E2-15-10-028-0 Chain | X/Y chain - IGUS E2i-10-10-018-0 Chain |
+| Z chain end - IGUS E2-150-10-12PZ Chain Ends | X/Y chain end - IGUS E2-100-10-12PZ Chain Ends |
 | 2x SKR 1.3 | 1x BTT Octopus, FYSETC Spider or MKS Monster8 |
 
+* Z chains should be replaced with X/Y chains due to off-distance towards left.
 * Stripping 1kg of weight in such small printer requires usage of 4 additional Clockwork 1 motors (NEMA17 Motor 17HS08-1004S or equivalent) to replace Z axis stepper motors.
 
 #### Recommended BOM changes required when compared normal V2.4 with the mod when build from start:
@@ -76,11 +79,11 @@ For the repository creator, it is because he originally did not have enough spac
 | AC input | 24V DC input |
 
 ## Kit promotion guidelines
-If you want to sell the kits of this mod project, please call it "Voron 2.4 with OITSWILLIAMV2 Mod" or related means. Do not call it "Voron 2.4 enhanced version" or any other means.
+If you want to sell the kits of this mod project, please call it "Voron 2.4 with OITSWILLIAMV2 Mod" or related means that mentions Voron 2 and OITSWILLIAMV2. Do not call it "Voron 2.4 enhanced version" or any other means.
 
 ## Questions
 ### Is 150mm an official spec size of Voron 2.4?
-No. There are reasons on why 150mm is not the spec size.
+No. There are speculative reasons on why 150mm is not the spec size.
 1. The spacing of the mounts between themselves needs to be changed, which means, like for example standard size (from 250mm to 350mm) has 150mm spacing between the bed mounts, but on a 150mm Voron 2.4, the bed mount needs to be narrower. Unless you have a router or a bench that can perfectly drill corners, the bed mount holes must be moved narrower in about half in order to make sure it is easily mounted.
 2. Another reason is that as you see the past renders of the printer, one of the chain needs to be changed. Instead of using the chain for the Z axis, XY chain is used on the Z axis.
 ### Can OITSWILLIAMV2 be the first printer?

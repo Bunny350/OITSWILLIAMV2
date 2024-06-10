@@ -3,7 +3,7 @@ This folder stores STLS of this project.
 Some of this mod supports both Voron Trident and Voron 2.4. However, this project is intended for Voron 2.4 with a modded spec.
 | Mod name  | Voron Trident | Voron 2.4 |
 | ------------- | ------------- | ------------- |
-| Exhaust Lite | :heavy_check_mark: Fully supported |  :heavy_check_mark: Fully supported |
+| Exhaust Lite Generation 2 *(unstable)* | :heavy_check_mark: Fully supported |  :heavy_check_mark: Fully supported |
 | RealEstate Generation 2 | :heavy_check_mark: Fully supported | :heavy_check_mark: Fully supported |
 | Tracker mount | :heavy_check_mark: Fully supported[^daretodeploy] | :heavy_check_mark: Fully supported[^daretodeploy] |
 | 150mm mod 60mm fan mount | 150mm mod spec recommended | 150mm mod spec recommended |
