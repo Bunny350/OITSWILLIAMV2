@@ -19,7 +19,7 @@ This page shows what method you should use when choosing. Directories that are n
 ### Directories that let you print one of either parts by screw type of coupler:
 
 * Bowden coupler
-	* Currently, one with runout sensor only supports 8/1" BSPP coupler.
+	* Currently, one with runout sensor only supports 1/8" BSPP coupler.
 
 ### Directories that let you print one of either part by screw type:
 

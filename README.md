@@ -31,7 +31,7 @@ The goal for this mod is:
 
 | Feature  | Status |
 | ------------- | ------------- |
-| Exhaust Lite Generation 2 | Early Access |
+| Exhaust Lite Generation 2 | Released |
 | RealEstate Generation 2 | Released |
 | Replacement / 150mm spec 60mm fan mount | Released |
 | Replacement / Replacement skirts | Released |
