@@ -34,10 +34,12 @@ The goal for this mod is:
 | Exhaust Lite Generation 2 | Released |
 | RealEstate Generation 2 | Released |
 | Replacement / 150mm spec 60mm fan mount | Released |
-| Replacement / Replacement skirts | Released |
+| Replacement / Banger speaker skirts | Early access |
+| Replacement / Replacement skirts made specifically for SBCs | Released |
+| Replacement / Replacement skirts made specifically for NUC PCs | Early access |
 
 ## Features
-This repository includes V2 150mm, which is basically Voron 2, but smaller. Normally, it keeps the full-size Afterburner, which can be upgraded to full-size Stealthburner.
+This repository includes V2 150mm, which is basically Voron 2, but smaller.
 
 ### Using OITSWILLIAMV2 Mod compoments
 
@@ -50,7 +52,7 @@ When using OITSWILLIAMV2 mod compoments to modify the printer, you can take eith
 * Flying colors (RGB LEDs) via Exhaust Lite.
 * Webcam from the back facing at the build plate.
 * Modular vent port to exhaust hose.
-* Some mods even support Voron Trident. See STLs Readme for explaination.
+* Some mods even extend to Voron Trident. See STLs Readme for explaination.
 
 ### Building from start
 
@@ -69,12 +71,13 @@ For the repository creator, it is because he originally did not have enough spac
 | 2x SKR 1.3 | 1x BTT Octopus, FYSETC Spider or MKS Monster8 |
 
 * Z chains should be replaced with X/Y chains due to off-distance towards left.
-* Stripping 1kg of weight in such small printer requires usage of 4 additional Clockwork 1 motors (NEMA17 Motor 17HS08-1004S or equivalent) to replace Z axis stepper motors.
+* Stripping 1kg of weight in such small printer requires usage of 4 Clockwork 1 motors (NEMA17 Motor 17HS08-1004S or equivalent) to replace Z axis stepper motors.
 
 #### Recommended BOM changes required when compared normal V2.4 with the mod when build from start:
 | Standard V2.4 recommended | V2.4 150mm + OITSWILLIAMV2 Mod Project |
 | ------------------------- | ------------------------- |
 | Coroplast panels as bottom, back and Deck panels |   Acrylic panels as bottom, back and Deck panels|
+| Internal power supply | External / dedicated power supply |
 | AC heated bed | 24V DC heated bed |
 | AC input | 24V DC input |
 
@@ -96,5 +99,4 @@ If you have built a shrunk-down or small printer first (i.e. V0, with or no mods
 For any other questions you can join [Oitswilliam Pang Discord server](https://discord.gg/Cu6e9ra) for the mod packages or [VORON Design Discord server](https://discord.gg/voron) on the original elements.
 
 ## Special Thanks
-* For V2.3347, Thanks to Razer for making back-side magical flying colors and RealEstate chin RGB possible with Razer Chroma.
 * Thanks to [VORON Design](https://github.com/VoronDesign) for the Voron 2 CAD model.
