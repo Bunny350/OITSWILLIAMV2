@@ -85,6 +85,8 @@ For the repository creator, it is because he originally did not have enough spac
 If you want to sell the kits of this mod project, please call it "Voron 2.4 with OITSWILLIAMV2 Mod" or related means that mentions Voron 2 and OITSWILLIAMV2. Do not call it "Voron 2.4 enhanced version" or any other means.
 
 ## Questions
+### How powerful is OITSWILLIAMV2?
+It's more powerful than the average home computers, at least on V2.3347. The only thing that's behind is a computer that has RTX 2060 (desktop) / RTX 2070 Mobile GPU and / or 12th generation Intel Core i7 desktop CPU. However that normally doesn't count if the printer's XY axes motors are not running on 48V power.
 ### Is 150mm an official spec size of Voron 2.4?
 No. There are speculative reasons on why 150mm is not the spec size.
 1. The spacing of the mounts between themselves needs to be changed, which means, like for example standard size (from 250mm to 350mm) has 150mm spacing between the bed mounts, but on a 150mm Voron 2.4, the bed mount needs to be narrower. Unless you have a router or a bench that can perfectly drill corners, the bed mount holes must be moved narrower in about half in order to make sure it is easily mounted.
