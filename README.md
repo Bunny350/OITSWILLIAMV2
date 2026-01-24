@@ -1,9 +1,9 @@
 <p align=center>
     <a>
         <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo-whitetext.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo.svg">
-  <img alt="OITSWILLIAMV2" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo/2022/Logo-whitetext.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo/2022/Logo.svg">
+  <img alt="OITSWILLIAMV2" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Logo/2022/Logo.svg">
 </picture>
     </a>
 </p>
@@ -34,7 +34,7 @@ The goal for this mod is:
 | Exhaust Lite Generation 2 | Released |
 | RealEstate Generation 2 | Released |
 | Replacement / 150mm spec 60mm fan mount | Released |
-| Replacement / Banger speaker skirts | Early access |
+| Replacement / Banger speaker skirts | Released |
 | Replacement / Replacement skirts made specifically for SBCs | Released |
 | Replacement / Replacement skirts made specifically for NUC PCs | Early access |
 
