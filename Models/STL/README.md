@@ -21,7 +21,7 @@ Some of this mod supports both Voron Trident and Voron 2.4. However, this projec
 [^noted]: Currently supports NUC 12 Pro to 15 Pro, but we have intent to make one that is made for NUC 16 Pro.
 
 * Most mods for Voron 2.4 do support Voron Trident, but needs user testing.
-* Most mods for Voron 2.4 does not support Voron 0, Voron 1.8, Voron Legacy or Voron Switchwire.
+* Most mods for Voron 2.4 do not support Voron 0, Voron 1.8, Voron Legacy or Voron Switchwire.
 
 ### <div id="nuc">NUC Mini PCs and SBCs</div>
 
