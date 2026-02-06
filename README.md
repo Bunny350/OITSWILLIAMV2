@@ -42,9 +42,9 @@ The goal for this mod is:
 ## Features
 This repository includes V2 150mm, which is basically Voron 2, but smaller. It includes skirts made for such printing dimensions.
 
-### Using OITSWILLIAMV2 Mod compoments
+### Using OITSWILLIAMV2 Mod components
 
-When using OITSWILLIAMV2 mod compoments to modify the printer, you can take either one or more with:
+When using OITSWILLIAMV2 mod components to modify the printer, you can take either one or more with:
 * Sleek yet tiltable touchscreen mount called RealEstate.
     * Touch screen support after having OctoScreen / OctoDash (for OctoPrint users) or KlipperScreen (for Moonraker / lightweight WebUI users)
 * Full DC input (no AC). (150mm mod only)
@@ -53,7 +53,7 @@ When using OITSWILLIAMV2 mod compoments to modify the printer, you can take eith
 * Flying colors (RGB LEDs) via Exhaust Lite.
 * Webcam from the back facing at the build plate.
 * Modular vent port to exhaust hose.
-* Some mods even extend to Voron Trident. See STLs Readme for explaination.
+* Some mods even extend to Voron Trident. See STLs Readme for explanation.
 
 ### Building from start
 

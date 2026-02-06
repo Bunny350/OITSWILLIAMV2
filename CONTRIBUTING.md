@@ -11,7 +11,7 @@ You can file issues regarding:
 * [bill-of-material](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing) errors,
 * help regarding this project, for example, unclear guide instructions.
 
-You will create issues from blank, so please use natual language. You may not make issues where it is off-topic. Users whose have usernames other than `Bunny350`, no matter whatever, may not make *public service announcements*.
+You will create issues from blank, so please use natural language. You may not make issues where it is off-topic. Users whose have usernames other than `Bunny350`, no matter whatever, may not make *public service announcements*.
 
 You can report issues in any other platforms as well. Please visit [Oitswilliam Pang support](https://www.oitswilliam.com/support) for the list of contacting methods and groups.
 
@@ -30,7 +30,7 @@ This section below advises the people who can make compatible parts.
 * Obscure references need to be meaningful, such as, but not limited to height and design scheme, and for the design scheme, it should not be another base of Voron 2. References should be safe for minors (children and teens under 13, 14 or 16), family-friendly and needed to have a name and the franchise, so that people will research about them. All obscure references where it does not have proper meanings, or just another base of Voron 2, or what Voron 2 is based of (another 3D printer), may be rejected.
 
 ### Assembly guides
-* All printable parts should have the the STL part name.
+* All printable parts should have the STL part name.
 * Parts where it rely on wrenches need to have the [wrench icon](https://pictogrammers.com/library/mdi/icon/wrench-outline/) and the nut size (10 or 15mm, for example).
 * Avoid putting bad humors (for example, screw it tight until it breaks and then print it again).
 * Vector images are generally recommended. Future OitswilliamV2 projects may prohibit raster images in assembly manuals.
