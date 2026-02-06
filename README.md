@@ -25,7 +25,8 @@ This project is for those who already had a normal and big Voron printer (can be
 ## Goal
 The goal for this mod is:
 * Make it unified,
-* Make it safer to use.
+* Make it safer to use,
+* And make it intuitive for years to come.
 
 ## Feature development status
 
@@ -36,10 +37,10 @@ The goal for this mod is:
 | Replacement / 150mm spec 60mm fan mount | Released |
 | Replacement / Banger speaker skirts | Released |
 | Replacement / Replacement skirts made specifically for SBCs | Released |
-| Replacement / Replacement skirts made specifically for NUC PCs | Early access |
+| Replacement / Replacement skirts made specifically for NUC PCs (14 Pro and 15 Pro) | Early access |
 
 ## Features
-This repository includes V2 150mm, which is basically Voron 2, but smaller.
+This repository includes V2 150mm, which is basically Voron 2, but smaller. It includes skirts made for such printing dimensions.
 
 ### Using OITSWILLIAMV2 Mod compoments
 
@@ -62,6 +63,8 @@ OITSWILLIAMV2 is a mod for shrunk-down Voron 2.4 with 150x150x130mm build area e
 * Panel clips can be printed in TPU, to prevent scratching on surfaces prone to scratching.
 
 For the repository creator, it is because he originally did not have enough space to put a proper Voron 2.4.
+
+Check out [parts printing Markdown file](https://github.com/Bunny350/OITSWILLIAMV2/blob/For-Voron-2.4/Parts%20printing.md) on what mod parts should be printed based on your preference. It could entertain, or just be a printer.
 
 #### Recommended BOM changes required when compared normal V2.4 with V2.4 150mm:
 | Standard V2.4  | V2.4 150mm |
@@ -90,15 +93,15 @@ It's more powerful than the average home computers, at least on V2.3347. The onl
 ### Is 150mm an official spec size of Voron 2.4?
 No. There are speculative reasons on why 150mm is not the spec size.
 1. The spacing of the mounts between themselves needs to be changed, which means, like for example standard size (from 250mm to 350mm) has 150mm spacing between the bed mounts, but on a 150mm Voron 2.4, the bed mount needs to be narrower. Unless you have a router or a bench that can perfectly drill corners, the bed mount holes must be moved narrower in about half in order to make sure it is easily mounted.
-2. Another reason is that as you see the past renders of the printer, one of the chain needs to be changed. Instead of using the chain for the Z axis, XY chain is used on the Z axis.
+2. Another reason is that one of the chain needs to be changed. Instead of using the chain intended for the Z axis, XY chain is used on the Z axis.
 ### Can OITSWILLIAMV2 be the first printer?
-No, it is made for tinkerers, although it is intended to be an do-it-anywhere printer. Users who are interested doing this should be supposed to have a larger printer.
+No, it is made for tinkerers, although it is intended to be an do-it-anywhere or living printer. Users who are interested doing this should have a larger printer. Unless if fairytale is real, except that could never.
 
-* Some people said with the help of 250mm spec is the best, this project may agree.
+* Some people said with the help of 250mm spec is the best, this project may agree. Although right now most important parts (from the original and from this repo) are compatible and to be printed on a smaller printer, and then some other parts, except the bottom panel and ELG2 back LED, can be printed within a 150mm print volume.
 
-If you have built a shrunk-down or small printer first (i.e. V0, with or no mods, smaller than Spec V1 / VT, V2 or Switchwire, excluding Z height), you may need to build a bigger printer for your bigger projects. Most necessary mod parts can be fit and can be printed on the tiny build plates.
+If you have built a shrunk-down or small printer first (i.e. V0, with or no mods, smaller than Spec V1 / VT, V2 or Switchwire, excluding Z height), you may need to build a bigger printer, or **ask someone or service** for your bigger projects.
 
-For any other questions you can join [Oitswilliam Pang Discord server](https://discord.gg/Cu6e9ra) for the mod packages or [VORON Design Discord server](https://discord.gg/voron) on the original elements.
+For any other questions, you can visit [Oitswilliam Pang support](https://oitswilliam.com/support), where you can contact, email or join the groups for the mod packages, or [VORON Design Discord server](https://discord.gg/voron) and [VORON Forum](https://forum.vorondesign.com) on the original elements.
 
 ## Special Thanks
 * Thanks to [VORON Design](https://github.com/VoronDesign) for the Voron 2 CAD model.
