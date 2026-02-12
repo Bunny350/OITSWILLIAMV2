@@ -12,7 +12,7 @@ Project is being constantly updated.
 
 # OITSWILLIAMV2
 
-<img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/printer-render.png">
+<img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Renders/5th-anniversary.png">
 
 * Currently featured in V2.3347!
 
@@ -34,10 +34,12 @@ The goal for this mod is:
 | ------------- | ------------- |
 | Exhaust Lite Generation 2 | Released |
 | RealEstate Generation 2 | Released |
-| Replacement / 150mm spec 60mm fan mount | Released |
+| Tracker mount / AirTag mount G4 | Early access |
+| Tracker mount / Galaxy SmartTag2 mount G2 | Early access |
+| Replacement / 150mm build 60mm fan mount | Released |
 | Replacement / Banger speaker skirts | Released |
-| Replacement / Replacement skirts made specifically for SBCs | Released |
-| Replacement / Replacement skirts made specifically for NUC PCs (14 Pro and 15 Pro) | Early access |
+| Electronics mounts / Replacement skirts made specifically for SBCs | Released |
+| Electronics mounts / Replacement skirts made specifically for NUC PCs (14 Pro and 15 Pro) | Early access |
 
 ## Features
 This repository includes V2 150mm, which is basically Voron 2, but smaller. It includes skirts made for such printing dimensions.
@@ -49,9 +51,11 @@ When using OITSWILLIAMV2 mod components to modify the printer, you can take eith
     * Touch screen support after having OctoScreen / OctoDash (for OctoPrint users) or KlipperScreen (for Moonraker / lightweight WebUI users)
 * Full DC input (no AC). (150mm mod only)
 * Smaller version of chamber exhaust called Exhaust Lite.
+* Zero limits, indefinite possibilities, through NUC.
 * Installing Windows / Debian Linux SBC (single-board computer) or NUC requires replacing the display for the better experience.
 * Flying colors (RGB LEDs) via Exhaust Lite.
 * Webcam from the back facing at the build plate.
+* Make the printer trackable through an item tracker.
 * Modular vent port to exhaust hose.
 * Some mods even extend to Voron Trident. See STLs Readme for explanation.
 
@@ -97,7 +101,7 @@ No. There are speculative reasons on why 150mm is not the spec size.
 ### Can OITSWILLIAMV2 be the first printer?
 No, it is made for tinkerers, although it is intended to be an do-it-anywhere or living printer. Users who are interested doing this should have a larger printer. Unless if fairytale is real, except that could never.
 
-* Some people said with the help of 250mm spec is the best, this project may agree. Although right now most important parts (from the original and from this repo) are compatible and to be printed on a smaller printer, and then some other parts, except the bottom panel and ELG2 back LED, can be printed within a 150mm print volume.
+* Some people said with the help of 250mm spec is the best, this project may agree. Although right now most important parts (from the original and from this repo) are compatible and to be printed on a smaller printer, and then some other parts, except the bottom panel, can be printed within a 150mm print volume.
 
 If you have built a shrunk-down or small printer first (i.e. V0, with or no mods, smaller than Spec V1 / VT, V2 or Switchwire, excluding Z height), you may need to build a bigger printer, or **ask someone or service** for your bigger projects.
 
@@ -105,3 +109,4 @@ For any other questions, you can visit [Oitswilliam Pang support](https://oitswi
 
 ## Special Thanks
 * Thanks to [VORON Design](https://github.com/VoronDesign) for the Voron 2 CAD model.
+* The NUC mount is vaguely inspired by [NucDeck by CNCDan](https://github.com/dmcke5/NucDeck), Oitswilliam watched the video before his own research and final decision. 

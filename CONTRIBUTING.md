@@ -27,35 +27,39 @@ This section below advises the people who can make compatible parts.
 #### Typical renders
 * All renders should feature Voron 2.
 #### Obscure references
-* Obscure references need to be meaningful, such as, but not limited to height and design scheme, and for the design scheme, it should not be another base of Voron 2. References should be safe for minors (children and teens under 13, 14 or 16), family-friendly and needed to have a name and the franchise, so that people will research about them. All obscure references where it does not have proper meanings, or just another base of Voron 2, or what Voron 2 is based of (another 3D printer), may be rejected.
+* Obscure references need to be meaningful, such as, but not limited to height and design scheme, and for the design scheme, it should not be another base of Voron 2. References should be safe for minors (children and teens under 13, 14 or 16), family-friendly and needed to have a name and the franchise provided, so that people will be able to research about them. All obscure references where it does not have proper meanings, or just base of Voron 2 or what Voron 2 is based of (another 3D printer), may require removal of "obscure reference" terms (including but not limited to "obscure", "easter-egg") or otherwise be rejected.
 
 ### Assembly guides
 * All printable parts should have the STL part name.
 * Parts where it rely on wrenches need to have the [wrench icon](https://pictogrammers.com/library/mdi/icon/wrench-outline/) and the nut size (10 or 15mm, for example).
 * Avoid putting bad humors (for example, screw it tight until it breaks and then print it again).
-* Vector images are generally recommended. Future OitswilliamV2 projects may prohibit raster images in assembly manuals.
+* Vector images are generally recommended. Future OitswilliamV2 projects may prohibit raster images in assembly manuals that are not about interacting in the screen shot.
+* The last mod project that allowed raster images during assembly is NUC 14-15 Pro skirt.
     * However, all vector images needed to be optimized, with up to 5 decimal points. This is to reduce file size. This is done by Scour, often found inside Inkscape. There are other solutions provided by other software as well.
     * Raster images are not allowed inside the svg container.
 
 ### Hardware
 * You may access its CAD for proper adaptation and modification. For both f3d and STEP files, if the model is not Voron 2 full model, they may not exceed 50MB uncompressed.
 * If the model has parametric history, unless if it has values or parameters that can be set by other users, you may save the model with such feature first, and then change it to direct modeling, before exporting. This will slash a lot of storage occupation of such model.
-#### Full assembly
+#### Full assembly (V2 150mm)
 The following parts which must use the original:
 * Probe ([Voron Tap](https://github.com/VoronDesign/Voron-Tap))
 * Tool head ([Voron Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner))
 * XY gantry and carriages ([Voron 2](https://github.com/VoronDesign/Voron-2))
 * Z gantry ([Voron 2](https://github.com/VoronDesign/Voron-2))
+* Frame (through [VORON Design website](https://vorondesign.com/voron2.4), choose custom size, then set build volume to 150 X and Y, 130 Z, or 310 in width and depth, 330 in height, all in millimeters)
 * Panel clips, door attaching and door clips
 
 The following parts which are condemned from being replaced with parts from other mods (only modified within):
 * Side skirts
+
 #### Special instructions for the banger speaker skirts
 * You can create a skirt / base mount for such banger speaker units, but if it is not for Voron 2 or Trident, you may put these unit mounts onto your own repository.
 #### Special instructions for NUC-specific skirts
 * Tall versions of Intel / ASUS NUC Pro or similar are not supported.
 #### Special instructions for the tracker mounts
 * Make sure the tracker's buzzer or speaker isn't blocked. If the tracker's buzzer or speaker has signs of being blocked, such as sound quieter than before, the part needs to be adjusted.
+* For contributions to the instructional stickers, [please read the Readme file in such folder](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Media/Tracker%20Instructional%20sticker).
 * **Do not allow it (or them) to be an accessible tool for stalking. All of these parts are never intended to be used for unwanted tracking. They can only be used for tracking printer's place locations.**
 
 ### Software
