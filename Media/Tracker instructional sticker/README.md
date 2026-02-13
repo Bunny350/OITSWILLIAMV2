@@ -1,7 +1,7 @@
 # Tracker instructional sticker
 This folder contains SVG vector and PNG raster image files of the instructional stickers on how to access the tracker's owner in case if it was marked lost.
 
-* For the PDF version, please refer to [Models/STL/Tracker mount/TRACKER-COMMON-FOR-VORON-ready-to-print.pdf](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Models/STL/Tracker mount/TRACKER-COMMON-FOR-VORON-ready-to-print.pdf).
+* For the PDF version, please refer to [Models/STL/Tracker mount/TRACKER-COMMON-FOR-VORON-ready-to-print.pdf](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Models/STL/Tracker%20mount/TRACKER-COMMON-FOR-VORON-ready-to-print.pdf).
 
 ## Requirements
 * Printable sticker paper.
