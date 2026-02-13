@@ -59,7 +59,7 @@ The following parts which are condemned from being replaced with parts from othe
 * Tall versions of Intel / ASUS NUC Pro or similar are not supported.
 #### Special instructions for the tracker mounts
 * Make sure the tracker's buzzer or speaker isn't blocked. If the tracker's buzzer or speaker has signs of being blocked, such as sound quieter than before, the part needs to be adjusted.
-* For contributions to the instructional stickers, [please read the Readme file in such folder](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Media/Tracker%20Instructional%20sticker).
+* For contributions to the instructional stickers, [please read the Readme file in such folder](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Media/Tracker%20instructional%20sticker).
 * **Do not allow it (or them) to be an accessible tool for stalking. All of these parts are never intended to be used for unwanted tracking. They can only be used for tracking printer's place locations.**
 
 ### Software
