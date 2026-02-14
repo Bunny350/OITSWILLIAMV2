@@ -20,13 +20,13 @@ Some of this mod supports both Voron Trident and Voron 2.4. However, this projec
 [^notec]: This part mounts one 60mm fan or some accessories into the printer. It uses the same mounting screws as the original. There are two variants for attaching the mount into the frame, *[base]150mm-60mm-fan-mount-m3x8.stl* which uses M3x8mm SHCS, but it seemed way too weak, so there is another variant called *[base]150mm-60mm-fan-mount-m3x12.stl* which requires M3x12mm SHCS on mounting to the frame.
 [^noted]: Currently supports NUC 12 Pro to 15 Pro, but we have intent to make one that is made for NUC 16 Pro.
 
-* Most mods for Voron 2.4 do support Voron Trident, but needs user testing.
+* Most mods for Voron 2.4 do support Voron Trident, but some parts need user testing.
 * Most mods for Voron 2.4 do not support Voron 0, Voron 1.8, Voron Legacy or Voron Switchwire.
 
 ### <div id="nuc">NUC Mini PCs and SBCs</div>
 
 OITSWILLIAMV2 mod now uses ASUS / Intel NUC PC which is inserted onto the back of the printer's skirt. This part only supports V2 in 150mm build size (mod). It used to support Morefine M6 with two mounting options (DIN rail mount or adhesive on the bottom) and universal (variant doesn't matter), but because of it's bad performance and compatibility, we have decided to discontinue them. OITSWILLIAMV2 also contains 150mm (mod) skirts that are made specifically for single-board computers such as Raspberry Pi, et cetera.
-* For users who still want or repair mounts for Morefine M6, [the last CAD commit with such model](https://github.com/Bunny350/OITSWILLIAMV2/tree/df8fa697d1fd7cfa57b1f74a1fd6d7f7c9acae59/Models/CAD/VORON2.4-150mm) can still be accessed, and the STL model can still be accessed even today.
+* For users who still want or repair mounts for Morefine M6, [the last CAD commit with such model](https://github.com/Bunny350/OITSWILLIAMV2/tree/df8fa697d1fd7cfa57b1f74a1fd6d7f7c9acae59/Models/CAD/VORON2.4-150mm) can still be accessed, and the STL model can still be accessed even today, [until June 15, in which the last commit with such model will be posted there](https://github.com/Bunny350/OITSWILLIAMV2/issues/4).
 
 ## Color guide
 * If the part name does not have any brackets at the beginning you may use the printer's base color to print the part.
