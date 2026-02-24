@@ -34,8 +34,8 @@ The goal for this mod is:
 | ------------- | ------------- |
 | Exhaust Lite Generation 2 | Released |
 | RealEstate Generation 2 | Released |
-| Tracker mount / AirTag mount G4 | Early access |
-| Tracker mount / Galaxy SmartTag2 mount G2 | Early access |
+| Tracker mount / AirTag mount G4 | Released |
+| Tracker mount / Galaxy SmartTag2 mount G2 | Released |
 | Replacement / 150mm build 60mm fan mount | Released |
 | Replacement / Banger speaker skirts | Released |
 | Electronics mounts / Replacement skirts made specifically for SBCs | Released |
