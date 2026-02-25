@@ -2,6 +2,10 @@
 This folder contains tracker mount to Voron printers, for AirTag and Galaxy SmartTag2.
 ## IMPORTANT NOTE
 **Do not use these for unwanted tracking. These parts are only intended to track printers that are installed with them.**
+
+## Recommended materials
+These parts are recommended to be printed in **ABS / ASA**. Other materials can be printed but the compliant design may not function properly, including but not limited to, requiring excessive force to secure or remove.
+
 ## Installation instructions
 Please refer to the [assembly guide for both tracker mounts](https://github.com/Bunny350/OitswilliamV2/tree/For-Voron-2.4/Manuals/TRACKER-MOUNT-2026.pdf) for exact installation.
 Insert the tracker to the main unit, then secure it with the bracket or nut. The assembled unit is then attached to the one of the skirt of the printer that has the unit mount installed.
