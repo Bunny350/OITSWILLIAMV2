@@ -16,3 +16,13 @@ To simplify the products for icons, it needs to:
 * Have text removed,
 * No small cutouts,
 * Have complex geometries reduced.
+
+## Passing icons to your *own* materials outside OitswilliamV2 project
+
+It is recommended to credit our designs when passing these icons to your own materials. 
+
+You may use the following phrase or related:
+
+* *"Some icons" by "artist" in OitswilliamV2.*
+
+For example, if there are icons *realestate-g2-display-s* and *v2-150mm-stealthburner* used, it will be written as *realestate-g2-display-s and v2-150mm-stealthburner by Oitswilliam Pang in OitswilliamV2.*

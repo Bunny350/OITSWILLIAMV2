@@ -100,6 +100,8 @@ No. There are speculative reasons on why 150mm is not the spec size.
 2. Another reason is that one of the chain needs to be changed. Instead of using the chain intended for the Z axis, XY chain is used on the Z axis.
 ### Can OITSWILLIAMV2 be the first printer?
 No, it is made for tinkerers, although it is intended to be an do-it-anywhere or living printer. Users who are interested doing this should have a larger printer. Unless if fairytale is real, except that could never.
+### Is this project suggested, built or vibe-designed by generative AI?
+No, none at all, and generative AI can get out.
 
 * Some people said with the help of 250mm spec is the best, this project may agree. Although right now most important parts (from the original and from this repo) are compatible and to be printed on a smaller printer, and then some other parts, except the bottom panel, can be printed within a 150mm print volume.
 

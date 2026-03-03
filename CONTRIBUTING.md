@@ -7,11 +7,14 @@ This section below advises the end-users who will build it and read the manuals 
 You can file issues regarding:
 * CAD / STL design errors,
 * Klipper configuration file (*.cfg) errors,
+* Software (including but not limited to Windows and Linux, Klipper and Mainsail / fluidd, but *certain limitations apply*.)
 * CircuitPython (*.py) errors,
 * [bill-of-material](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing) errors,
 * help regarding this project, for example, unclear guide instructions.
 
-You will create issues from blank, so please use natural language. You may not make issues where it is off-topic. Users whose have usernames other than `Bunny350`, no matter whatever, may not make *public service announcements*.
+You will create issues from blank, so please use natural language. You may not make issues where it is off-topic (unrelated / zero-relevance to this project). Users whose have usernames other than [`Bunny350`](https://github.com/Bunny350), no matter whatever, may not make *public service announcements*.
+
+There are *certain limitations apply* on filing issues. In order to have this project play safe with and appeal others, emulations that aren't Klipper (or Virtual Klipper Printer), such as non-PC video game emulation, are not supported. Running macOS on such hardware (also known as Hackintosh) is also not supported. Issues related to these will be marked *invalid*.
 
 You can report issues in any other platforms as well. Please visit [Oitswilliam Pang support](https://www.oitswilliam.com/support) for the list of contacting methods and groups.
 
