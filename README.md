@@ -14,7 +14,7 @@ Project is being constantly updated.
 
 <img alt="Voron 2.4 with 150mm mod and OITSWILLIAMV2 mods" src="https://raw.githubusercontent.com/Bunny350/OITSWILLIAMV2/main/Media/Renders/5th-anniversary.png">
 
-* Currently featured in V2.3347!
+* Currently featured in V2.3347[^config-on-other-side]!
 
 [View BOM](https://docs.google.com/spreadsheets/d/1hI7gKyXv_dqwRoAh5GxhNzBPyU9dn64bGJ1oHiKoa74/edit?usp=sharing)
 
@@ -112,3 +112,5 @@ For any other questions, you can visit [Oitswilliam Pang support](https://oitswi
 ## Special Thanks
 * Thanks to [VORON Design](https://github.com/VoronDesign) for the Voron 2 CAD model.
 * The NUC mount is vaguely inspired by [NucDeck by CNCDan](https://github.com/dmcke5/NucDeck), Oitswilliam watched the video before his own research and final decision. 
+
+[^config-on-other-side]: The configuration files for the following printers are not included in this repository, only organized, specific and cleaned-up. To get V2.3347's exact configuration files, you must be a follower of Oitswilliam Pang and then get follower-exclusive features through [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9aEM7jyf0lV2PUAgOg0_tz9F7GI91byWFxUzvXsLlXambJA/viewform?usp=header). Other steps are provided from the form.

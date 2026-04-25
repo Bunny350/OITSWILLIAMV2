@@ -79,6 +79,8 @@ The following parts which are condemned from being replaced with parts from othe
 #### Instructions for *.cfg file
 * OitswilliamV2 Klipper Configuration file is unlike what the original do, instead of fiddling around the one and the only `printer.cfg` file, users can just either include or don't do it.
 * Display configuration files needed to be separated from the printer configuration file.
+* Configuration files must be cleaned up and organized. Configuration sections generated via SAVE_CONFIG command must be removed entirely.
+        
 #### Special instructions for *.py file
 * Be noted that for *.py it must be based of Adafruit's CircuitPython, and must be placed in **Non-Klipper** folder.
 * The keys can go into secondary if a secondary switching key (on RealEstate, mute switch) is pressed.
