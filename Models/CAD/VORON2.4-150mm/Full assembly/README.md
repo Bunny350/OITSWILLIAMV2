@@ -16,5 +16,7 @@ You may not use this model for AI-generated or -remixed media, although this is 
 ## Included upgrades
 * [Voron Tap](https://github.com/VoronDesign/Voron-Tap)
 
+## [The f3d file was all-of-a-sudden doubled, even if nothing changed, but just exported today.](https://www.facebook.com/share/p/1Hoa8yiPeh/)
+
 ## Why is the STEP CAD file compressed?
-This is because the STEP file itself is 159MB, which is bigger than usually allowed per-file size. The compressed file is just around 30MB. And the compressed file should **not be locked with a password**, otherwise **do not access it**.
+This is because the STEP file itself is 151.9MB, which is bigger than usually allowed per-file size. The compressed file is just around 28MB. And the compressed file should **not be locked with a password**, otherwise **do not access it**.

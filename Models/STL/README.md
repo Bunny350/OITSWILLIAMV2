@@ -26,7 +26,7 @@ Some of this mod supports both Voron Trident and Voron 2.4. However, this projec
 ### <div id="nuc">NUC Mini PCs and SBCs</div>
 
 OITSWILLIAMV2 mod now uses ASUS / Intel NUC PC which is inserted onto the back of the printer's skirt. This part only supports V2 in 150mm build size (mod). It used to support Morefine M6 with two mounting options (DIN rail mount or adhesive on the bottom) and universal (variant doesn't matter), but because of it's bad performance and compatibility, we have decided to discontinue them. OITSWILLIAMV2 also contains 150mm (mod) skirts that are made specifically for single-board computers such as Raspberry Pi, et cetera.
-* For users who still want or repair mounts for Morefine M6, [the last CAD commit with such model](https://github.com/Bunny350/OITSWILLIAMV2/tree/df8fa697d1fd7cfa57b1f74a1fd6d7f7c9acae59/Models/CAD/VORON2.4-150mm) can still be accessed, and the STL model can still be accessed even today, [until June 15, in which the last commit with such model will be posted there](https://github.com/Bunny350/OITSWILLIAMV2/issues/4).
+* For users who still want or repair mounts for Morefine M6, [the last CAD commit with such model](https://github.com/Bunny350/OITSWILLIAMV2/tree/df8fa697d1fd7cfa57b1f74a1fd6d7f7c9acae59/Models/CAD/VORON2.4-150mm) can still be accessed, and the STL models can be accessed [here](https://github.com/Bunny350/OITSWILLIAMV2/issues/4).
 
 ## Color guide
 * If the part name does not have any brackets at the beginning you may use the printer's base color to print the part.

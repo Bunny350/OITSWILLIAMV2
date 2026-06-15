@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'nuc 14 15 in v2.step',
-/* time_stamp */ '2026-01-18T15:06:51+08:00',
+/* time_stamp */ '2026-05-27T14:09:06+08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v14.21.0.0',
+/* originating_system */ 'Autodesk Translation Framework v15.8.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -772,18 +772,22 @@ w:2');
 #297=NEXT_ASSEMBLY_USAGE_OCCURRENCE('ASM_SYS_NUC14R3_RV_NUC_ASM:1',
 'ASM_SYS_NUC14R3_RV_NUC_ASM:1','ASM_SYS_NUC14R3_RV_NUC_ASM:1',#219734,#219735,
 'ASM_SYS_NUC14R3_RV_NUC_ASM:1');
-#298=NEXT_ASSEMBLY_USAGE_OCCURRENCE('back_skirt_nuc_pro_right:1',
-'back_skirt_nuc_pro_right:1','back_skirt_nuc_pro_right:1',#219734,#219767,
-'back_skirt_nuc_pro_right:1');
-#299=NEXT_ASSEMBLY_USAGE_OCCURRENCE('back_skirt_nuc_pro_left:1',
-'back_skirt_nuc_pro_left:1','back_skirt_nuc_pro_left:1',#219734,#219768,
-'back_skirt_nuc_pro_left:1');
-#300=NEXT_ASSEMBLY_USAGE_OCCURRENCE('reinforcement_stud_bottom:1',
-'reinforcement_stud_bottom:1','reinforcement_stud_bottom:1',#219734,#219770,
-'reinforcement_stud_bottom:1');
-#301=NEXT_ASSEMBLY_USAGE_OCCURRENCE('reinforcement stud top:1',
-'reinforcement stud top:1','reinforcement stud top:1',#219734,#219771,
-'reinforcement stud top:1');
+#298=NEXT_ASSEMBLY_USAGE_OCCURRENCE('back_skirt_nuc_12to15_pro_right:1',
+'back_skirt_nuc_12to15_pro_right:1','back_skirt_nuc_12to15_pro_right:1',
+#219734,#219767,'back_skirt_nuc_12to15_pro_right:1');
+#299=NEXT_ASSEMBLY_USAGE_OCCURRENCE('back_skirt_nuc_12to15_pro_left:1',
+'back_skirt_nuc_12to15_pro_left:1','back_skirt_nuc_12to15_pro_left:1',#219734,
+#219768,'back_skirt_nuc_12to15_pro_left:1');
+#300=NEXT_ASSEMBLY_USAGE_OCCURRENCE(
+'reinforcement_stud_bottom_nuc_12to15_pro:1',
+'reinforcement_stud_bottom_nuc_12to15_pro:1',
+'reinforcement_stud_bottom_nuc_12to15_pro:1',#219734,#219770,
+'reinforcement_stud_bottom_nuc_12to15_pro:1');
+#301=NEXT_ASSEMBLY_USAGE_OCCURRENCE(
+'reinforcement stud top - for within nuc 12 to 15 pro:1',
+'reinforcement stud top - for within nuc 12 to 15 pro:1',
+'reinforcement stud top - for within nuc 12 to 15 pro:1',#219734,#219771,
+'reinforcement stud top - for within nuc 12 to 15 pro:1');
 #302=NEXT_ASSEMBLY_USAGE_OCCURRENCE('raw:1','raw:1','raw:1',#219734,#219772,
 'raw:1');
 #303=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#219692,#334);
@@ -913,7 +917,7 @@ w:2');
 #426=MANIFOLD_SOLID_BREP('Body1',#112165);
 #427=MANIFOLD_SOLID_BREP('Body1',#112166);
 #428=MANIFOLD_SOLID_BREP('Body1',#112167);
-#429=MANIFOLD_SOLID_BREP('back_skirt_nuc_pro_right',#112168);
+#429=MANIFOLD_SOLID_BREP('back_skirt_nuc_12to15_pro_right',#112168);
 #430=MANIFOLD_SOLID_BREP('Body1',#112169);
 #431=MANIFOLD_SOLID_BREP('Body2',#112170);
 #432=MANIFOLD_SOLID_BREP('Body3',#112171);
@@ -927,10 +931,11 @@ w:2');
 #440=MANIFOLD_SOLID_BREP('Body11',#112179);
 #441=MANIFOLD_SOLID_BREP('Body12',#112180);
 #442=MANIFOLD_SOLID_BREP('Body13',#112181);
-#443=MANIFOLD_SOLID_BREP('back_skirt_nuc_pro_left_xt60_power',#112182);
-#444=MANIFOLD_SOLID_BREP('reinforcement_stud_bottom',#112183);
-#445=MANIFOLD_SOLID_BREP('reinforcement_stud_top_left_nuc_12to15',#112184);
-#446=MANIFOLD_SOLID_BREP('reinforcement_stud_top_right_nuc_12to15',#112185);
+#443=MANIFOLD_SOLID_BREP('back_skirt_nuc_12to15_pro_left_xt60_power',#112182);
+#444=MANIFOLD_SOLID_BREP('reinforcement_stud_bottom_nuc_12to15_pro',#112183);
+#445=MANIFOLD_SOLID_BREP('reinforcement_stud_top_left_nuc_12to15_pro',#112184);
+#446=MANIFOLD_SOLID_BREP('reinforcement_stud_top_right_nuc_12to15_pro',
+#112185);
 #447=MANIFOLD_SOLID_BREP('Body1',#112186);
 #448=MANIFOLD_SOLID_BREP('Body1',#112187);
 #449=MANIFOLD_SOLID_BREP('Body1',#112188);
@@ -250181,7 +250186,7 @@ SOLID_ANGLE_UNIT()
 #219515);
 #219732=SHAPE_REPRESENTATION('',(#120784),#219516);
 #219733=PRODUCT_DEFINITION_CONTEXT('part definition',#219873,'design');
-#219734=PRODUCT_DEFINITION('0_NUC14R3_RV_NUC_ASM','nuc 14 15 in v2 v12',
+#219734=PRODUCT_DEFINITION('0_NUC14R3_RV_NUC_ASM','nuc 14 15 in v2 v14',
 #219780,#219733);
 #219735=PRODUCT_DEFINITION('ASM_SYS_NUC14R3_RV_NUC_ASM',
 'ASM_SYS_NUC14R3_RV_NUC_ASM',#219781,#219733);
@@ -250245,16 +250250,17 @@ SOLID_ANGLE_UNIT()
 #219811,#219733);
 #219766=PRODUCT_DEFINITION('MYLAR_K-LOCK-S_NUC_RV_CM',
 'MYLAR_K-LOCK-S_NUC_RV_CM',#219812,#219733);
-#219767=PRODUCT_DEFINITION('back_skirt_nuc_pro_right',
-'back_skirt_nuc_pro_right',#219813,#219733);
-#219768=PRODUCT_DEFINITION('back_skirt_nuc_pro_left',
-'back_skirt_nuc_pro_left',#219814,#219733);
+#219767=PRODUCT_DEFINITION('back_skirt_nuc_12to15_pro_right',
+'back_skirt_nuc_12to15_pro_right',#219813,#219733);
+#219768=PRODUCT_DEFINITION('back_skirt_nuc_12to15_pro_left',
+'back_skirt_nuc_12to15_pro_left',#219814,#219733);
 #219769=PRODUCT_DEFINITION('[NOT PRINTABLE]','[NOT PRINTABLE]',#219815,
 #219733);
-#219770=PRODUCT_DEFINITION('reinforcement_stud_bottom',
-'reinforcement_stud_bottom',#219816,#219733);
-#219771=PRODUCT_DEFINITION('reinforcement stud top',
-'reinforcement stud top',#219817,#219733);
+#219770=PRODUCT_DEFINITION('reinforcement_stud_bottom_nuc_12to15_pro',
+'reinforcement_stud_bottom_nuc_12to15_pro',#219816,#219733);
+#219771=PRODUCT_DEFINITION(
+'reinforcement stud top - for within nuc 12 to 15 pro',
+'reinforcement stud top - for within nuc 12 to 15 pro',#219817,#219733);
 #219772=PRODUCT_DEFINITION('raw','raw',#219818,#219733);
 #219773=PRODUCT_DEFINITION('skirt','skirt',#219819,#219733);
 #219774=PRODUCT_DEFINITION(
@@ -250320,8 +250326,8 @@ w',#219820,#219733);
 #219823=PRODUCT_DEFINITION_FORMATION('',$,#219918);
 #219824=PRODUCT_DEFINITION_FORMATION('',$,#219919);
 #219825=PRODUCT_DEFINITION_FORMATION('',$,#219920);
-#219826=PRODUCT_RELATED_PRODUCT_CATEGORY('nuc 14 15 in v2 v12',
-'nuc 14 15 in v2 v12',(#219875));
+#219826=PRODUCT_RELATED_PRODUCT_CATEGORY('nuc 14 15 in v2 v14',
+'nuc 14 15 in v2 v14',(#219875));
 #219827=PRODUCT_RELATED_PRODUCT_CATEGORY('ASM_SYS_NUC14R3_RV_NUC_ASM',
 'ASM_SYS_NUC14R3_RV_NUC_ASM',(#219876));
 #219828=PRODUCT_RELATED_PRODUCT_CATEGORY('ASM_NUC14R3K_RV_NUC_ASM',
@@ -250386,16 +250392,18 @@ w',#219820,#219733);
 'SCREW-M2-L3-D5-H0_5',(#219906));
 #219858=PRODUCT_RELATED_PRODUCT_CATEGORY('MYLAR_K-LOCK-S_NUC_RV_CM',
 'MYLAR_K-LOCK-S_NUC_RV_CM',(#219907));
-#219859=PRODUCT_RELATED_PRODUCT_CATEGORY('back_skirt_nuc_pro_right',
-'back_skirt_nuc_pro_right',(#219908));
-#219860=PRODUCT_RELATED_PRODUCT_CATEGORY('back_skirt_nuc_pro_left',
-'back_skirt_nuc_pro_left',(#219909));
+#219859=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'back_skirt_nuc_12to15_pro_right','back_skirt_nuc_12to15_pro_right',(#219908));
+#219860=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'back_skirt_nuc_12to15_pro_left','back_skirt_nuc_12to15_pro_left',(#219909));
 #219861=PRODUCT_RELATED_PRODUCT_CATEGORY('[NOT PRINTABLE]',
 '[NOT PRINTABLE]',(#219910));
-#219862=PRODUCT_RELATED_PRODUCT_CATEGORY('reinforcement_stud_bottom',
-'reinforcement_stud_bottom',(#219911));
-#219863=PRODUCT_RELATED_PRODUCT_CATEGORY('reinforcement stud top',
-'reinforcement stud top',(#219912));
+#219862=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'reinforcement_stud_bottom_nuc_12to15_pro',
+'reinforcement_stud_bottom_nuc_12to15_pro',(#219911));
+#219863=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'reinforcement stud top - for within nuc 12 to 15 pro',
+'reinforcement stud top - for within nuc 12 to 15 pro',(#219912));
 #219864=PRODUCT_RELATED_PRODUCT_CATEGORY('raw','raw',(#219913));
 #219865=PRODUCT_RELATED_PRODUCT_CATEGORY('skirt','skirt',(#219914));
 #219866=PRODUCT_RELATED_PRODUCT_CATEGORY(
@@ -250419,7 +250427,7 @@ w',(#219915));
 #219873=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #219874=PRODUCT_CONTEXT('part definition',#219873,'mechanical');
-#219875=PRODUCT('0_NUC14R3_RV_NUC_ASM','nuc 14 15 in v2 v12',$,(#219874));
+#219875=PRODUCT('0_NUC14R3_RV_NUC_ASM','nuc 14 15 in v2 v14',$,(#219874));
 #219876=PRODUCT('ASM_SYS_NUC14R3_RV_NUC_ASM',
 'ASM_SYS_NUC14R3_RV_NUC_ASM','NOT SPECIFIED',(#219874));
 #219877=PRODUCT('ASM_NUC14R3K_RV_NUC_ASM','ASM_NUC14R3K_RV_NUC_ASM',
@@ -250481,13 +250489,15 @@ w',(#219915));
 'NOT SPECIFIED',(#219874));
 #219907=PRODUCT('MYLAR_K-LOCK-S_NUC_RV_CM','MYLAR_K-LOCK-S_NUC_RV_CM',
 'NOT SPECIFIED',(#219874));
-#219908=PRODUCT('back_skirt_nuc_pro_right','back_skirt_nuc_pro_right',$,
-(#219874));
-#219909=PRODUCT('back_skirt_nuc_pro_left','back_skirt_nuc_pro_left',$,(#219874));
+#219908=PRODUCT('back_skirt_nuc_12to15_pro_right',
+'back_skirt_nuc_12to15_pro_right',$,(#219874));
+#219909=PRODUCT('back_skirt_nuc_12to15_pro_left',
+'back_skirt_nuc_12to15_pro_left',$,(#219874));
 #219910=PRODUCT('[NOT PRINTABLE]','[NOT PRINTABLE]',$,(#219874));
-#219911=PRODUCT('reinforcement_stud_bottom','reinforcement_stud_bottom',
-$,(#219874));
-#219912=PRODUCT('reinforcement stud top','reinforcement stud top',$,(#219874));
+#219911=PRODUCT('reinforcement_stud_bottom_nuc_12to15_pro',
+'reinforcement_stud_bottom_nuc_12to15_pro',$,(#219874));
+#219912=PRODUCT('reinforcement stud top - for within nuc 12 to 15 pro',
+'reinforcement stud top - for within nuc 12 to 15 pro',$,(#219874));
 #219913=PRODUCT('raw','raw',$,(#219874));
 #219914=PRODUCT('skirt','skirt',$,(#219874));
 #219915=PRODUCT(
