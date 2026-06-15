@@ -12,7 +12,7 @@ Some of this mod supports both Voron Trident and Voron 2.4. However, this projec
 | Fan mounting skirt for 150mm mod[^notec] | Replacement | 150mm mod spec specific | 150mm mod spec specific |
 | Bottom panel of the printer | Replacement/Bottom panel | 150mm mod spec specific | 150mm mod spec specific |
 | 150mm mod SBC-specific skirt | Electronics mounts/Computer mounting/SBC | :x: Not supported | 150mm mod spec specific |
-| 150mm mod NUC-specific skirt (early access)[^noted] | Electronics mounts/Computer mounting/NUC | :x: Not supported[^nointents] | 150mm mod spec specific |
+| 150mm mod NUC-specific skirt[^noted] | Electronics mounts/Computer mounting/NUC | :x: Not supported[^nointents] | 150mm mod spec specific |
 | Condensed 60mm fan grill | Replacement | :heavy_check_mark: Fully supported |  :heavy_check_mark: Fully supported |
 
 [^notea]: The part in question is called *din-rail-bypass-deck-mount-X4.stl*. These (being four of these parts) are used to mount the deck panel without the DIN rail being mounted with. It can be mounted with M3x8mm to M3x10mm BHCS / SHCS. This part is located in Replacements folder.

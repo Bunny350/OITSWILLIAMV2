@@ -39,7 +39,7 @@ The goal for this mod is:
 | Replacement / 150mm build 60mm fan mount | Released |
 | Replacement / Banger speaker skirts | Released |
 | Electronics mounts / Replacement skirts made specifically for SBCs | Released |
-| Electronics mounts / Replacement skirts made specifically for NUC PCs (12 Pro to 15 Pro) | Early access |
+| Electronics mounts / Replacement skirts made specifically for NUC PCs (12 Pro to 15 Pro) | Released |
 
 ## Features
 This repository includes V2 150mm, which is basically Voron 2, but smaller. It includes skirts made for such printing dimensions.
